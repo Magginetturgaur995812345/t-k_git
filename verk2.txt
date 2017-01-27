@@ -11,3 +11,5 @@ Electric static discharge  og maður á að losa sig við stöðurafmagn til að verjas
 Hversu mörg vortt móðurborðið er með
 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 Finna vandamálið, finna hvað var mest líklegt að skaða, kanna hvort það sé rétt hjá þer,ákveða hvernig þú ætlar að laga vandamálið,tékka hvort það lagaði, skrifa hvað vandamálið var
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
