@@ -4,3 +4,6 @@ Random accses memory og það er gagnasöfnun sem hækkar hraða á vélinni þinni.
 Read only memory og það guit
 3. Hvað er fyrirbyggjandi viðhald?
 Fara yfir tölvuna t.d þrífa ryk og fara yfir skjöl
+4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
+verjast því þegar unnið er með tölvubúnað?
+Electric static discharge  og maður á að losa sig við stöðurafmagn til að verjast því
