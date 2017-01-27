@@ -1,0 +1,2 @@
+1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
+Random accses memory og það er gagnasöfnun sem hækkar hraða á vélinni þinni.
