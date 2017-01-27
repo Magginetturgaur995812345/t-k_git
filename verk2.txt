@@ -1,4 +1,6 @@
 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
 Random accses memory og það er gagnasöfnun sem hækkar hraða á vélinni þinni.
 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
-Read only memory og það 
+Read only memory og það guit
+3. Hvað er fyrirbyggjandi viðhald?
+Fara yfir tölvuna t.d þrífa ryk og fara yfir skjöl
