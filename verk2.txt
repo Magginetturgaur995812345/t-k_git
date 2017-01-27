@@ -15,3 +15,5 @@ Finna vandamálið, finna hvað var mest líklegt að skaða, kanna hvort það sé rétt 
 Nefnið dæmi um báðar gerðir af spurningum.
 8. Hvað eru jaðartæki?
 Mýs,lyklaborð, myndavél hlutir sem eru settir inn
+9. Nefndu þrjú dæmi um inntakstæki.
+móðurborð,skjákort,örgjafi.
