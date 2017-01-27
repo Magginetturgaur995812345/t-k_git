@@ -7,3 +7,5 @@ Fara yfir tölvuna t.d þrífa ryk og fara yfir skjöl
 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
 verjast því þegar unnið er með tölvubúnað?
 Electric static discharge  og maður á að losa sig við stöðurafmagn til að verjast því
+5. Hvað þarf að hafa í huga við val á spennugjöfum?
+Hversu mörg vortt móðurborðið er með
